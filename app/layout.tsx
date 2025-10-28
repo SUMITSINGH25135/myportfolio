@@ -18,25 +18,25 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'Sumit Karki - Full Stack Developer',
+  title: 'Sumit Singh - Full Stack Developer',
   description: 'Modern portfolio showcasing creative development and 3D experiences',
-  keywords: ['Sumit Karki', 'Full Stack Developer', 'React', 'Next.js', 'Portfolio'],
-  authors: [{ name: 'Sumit Karki' }],
-  creator: 'Sumit Karki',
-  publisher: 'Sumit Karki',
+  keywords: ['Sumit Singh', 'Full Stack Developer', 'React', 'Next.js', 'Portfolio'],
+  authors: [{ name: 'Sumit Singh' }],
+  creator: 'Sumit Singh',
+  publisher: 'Sumit Singh',
   openGraph: {
-    title: 'Sumit Karki - Full Stack Developer',
+    title: 'Sumit Singh - Full Stack Developer',
     description: 'Modern portfolio showcasing creative development and 3D experiences',
-    url: 'https://Sumit-Karki.dev',
-    siteName: 'Sumit Karki Portfolio',
+    url: 'https://Sumit-Singh.dev',
+    siteName: 'Sumit Singh Portfolio',
     locale: 'en_US',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Sumit Karki - Full Stack Developer',
+    title: 'Sumit Singh - Full Stack Developer',
     description: 'Modern portfolio showcasing creative development and 3D experiences',
-    creator: '@Sumit_Karki',
+    creator: '@Sumit_Singh',
   },
   robots: {
     index: true,
@@ -67,4 +67,5 @@ export default function RootLayout({
       </body>
     </html>
   );
+
 }
