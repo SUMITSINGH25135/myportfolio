@@ -2,7 +2,7 @@
 
 A personal portfolio website showcasing my skills, projects, and contact information. Built using **Next.js** and **Tailwind CSS**, and deployed on **Netlify**.
 
-![Portfolio Screenshot](./public/portfolio.png)
+
 
 ## 🌐 Live Site
 
@@ -46,4 +46,5 @@ A personal portfolio website showcasing my skills, projects, and contact informa
 ```bash
 git clone https://github.com/sumitkarki188/Portfolio-Website.git
 cd Portfolio-Website
+
 
