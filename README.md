@@ -6,7 +6,7 @@ A personal portfolio website showcasing my skills, projects, and contact informa
 
 ## 🌐 Live Site
 
-👉 [Visit Portfolio]([https://myportfolio-rd5s.onrender.com](https://sumit-singh-portfolio.vercel.app/))
+👉 [Visit Portfolio](https://sumit-singh-portfolio.vercel.app)
 
 ---
 
@@ -46,5 +46,6 @@ A personal portfolio website showcasing my skills, projects, and contact informa
 ```bash
 git clone https://github.com/sumitkarki188/Portfolio-Website.git
 cd Portfolio-Website
+
 
 
